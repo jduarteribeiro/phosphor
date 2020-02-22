@@ -1,6 +1,6 @@
 {
   "name": "@phosphor/datastore",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "description": "PhosphorJS - DataStore",
   "homepage": "https://github.com/phosphorjs/phosphor",
   "bugs": {
